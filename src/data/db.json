@@ -1,0 +1,66 @@
+{
+  "port": 3100,
+  "myData": [
+    {
+      "id": "1",
+      "name": "set up computer",
+      "image": "https://www.pexels.com/photo/modern-computer-monitor-with-keyboard-and-tablet-in-modern-room-4590387/",
+      "price": 2500,
+      "category": "pc"
+    },
+    {
+      "id": "2",
+      "name": "Tablet",
+      "image": "https://images.pexels.com/photos/2320369/pexels-photo-2320369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 300,
+      "category": "tel"
+    },
+    {
+      "id": "3",
+      "name": "Mac Boc",
+      "image": "https://images.pexels.com/photos/38568/apple-imac-ipad-workplace-38568.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "price": "1000",
+      "category": "pc"
+    },
+    {
+      "id": "4",
+      "name": "MacBook",
+      "image": "https://www.pexels.com/photo/macbook-pro-and-space-gray-iphone-6-303383/",
+      "price": 1500,
+      "category": "pc"
+    },
+    {
+      "id": "5",
+      "name": "Ecran_Mac ",
+      "image": "https://images.pexels.com/photos/38568/apple-imac-ipad-workplace-38568.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "price": 100,
+      "category": "pc"
+    },
+    {
+      "id": "6",
+      "name": "Vontilateur",
+      "image": "https://images.pexels.com/photos/38568/apple-imac-ipad-workplace-38568.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "price": 500,
+      "category": "pc"
+    },
+    {
+      "id": "7",
+      "name": "HP PAVILION",
+      "image": "https://th.bing.com/th/id/OIP.L8D695k8Ek8pSSb1_8yDHwHaE8?rs=1&pid=ImgDetMain",
+      "price": 3000,
+      "category": "pc"
+    },
+    {
+      "id": "10",
+      "name": "abdelilah",
+      "price": 100,
+      "image": "#"
+    },
+    {
+      "id": 10,
+      "name": "smail",
+      "price": 199,
+      "image": "\"#\""
+    }
+  ]
+}
